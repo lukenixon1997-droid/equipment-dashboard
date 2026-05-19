@@ -1,0 +1,1122 @@
+Equipment: Front-to-Back Mitter
+Brand: Sonny’s
+Manual: Front-to-Back Mitter Owner’s Manual
+Manual Version: 2021-A
+
+Quick Description:
+Sonny’s Front-to-Back Mitter uses a 2HP 3-phase electric motor and 60:1 direct drive speed reducer to move hanging mitter curtains front-to-back with vehicle travel. It is controlled by the customer-supplied controller system, which should also control soap solution delivery to the mitter spray bar.
+
+Main Specs:
+- 4 inch square aluminum frame/support legs
+- 2HP, 3-phase electric drive motor
+- 60:1 direct drive speed reducer
+- Non-grease basket bearings
+- Vehicle clearance up to 90 inches high
+- Tunnel length required: 93 inches
+- Tunnel width required: 152 inches
+- Required overhead tunnel clearance: 133 inches or 142 inches depending on model
+- Water/solution inlet: 1/2 inch city pressure water solution inlet
+
+Utilities:
+Water:
+- 3/4 inch city water line at about 60 PSI with manual shut-off valve to chemical distribution system.
+Electric:
+- 3-phase power, 208V / 230V / 460V, to 2HP motor through properly sized 3-pole breaker and motor starter with 3 thermal overloads.
+- Single-phase control power from customer start/stop system to motor starter coil, soap solenoid valve, and injection system.
+- Confirm 2HP motor is wired for correct supply voltage.
+
+Operation:
+- Drive motor and speed reducer move cleaning curtains back and forth.
+- Remote customer controller starts/stops mitter.
+- Controller should also control soap solution delivery to spray bar.
+
+Daily Maintenance:
+1. Check chemical lines and fittings for leaks.
+2. Check operation and listen for unusual noises.
+3. Inspect mitter cloth for cuts, grease, or oil.
+4. Remove, repair, or replace damaged/contaminated cloth panels.
+5. Check chemical solution delivery.
+6. Check for oil leaks around gear reducer.
+
+Weekly Maintenance:
+1. Check gear reducer oil level and fill if needed.
+2. Grease rod ends on both ends of drive arms.
+3. During first month, check hardware/fittings weekly for tightness.
+
+Monthly Maintenance:
+1. Inspect hardware and fittings for tightness.
+2. Inspect plastic bearings for wear.
+3. If bearing center hole is egg-shaped, invert bearing short term and order replacement.
+4. Inspect soap spray nozzles for wear.
+5. Clean equipment and framework.
+
+Annual Maintenance:
+1. Drain, flush, and refill speed reducer oil.
+2. Use SAE 90 gear oil for 15°F to 50°F.
+3. Use SAE 140 gear oil for 50°F to 120°F.
+4. Do not overfill. Remove speed reducer case plug just above output shafts and fill to that level.
+
+Problem: Mitter not moving
+Checks:
+1. Verify controller is calling for mitter operation.
+2. Verify motor starter is energizing.
+3. Verify 3-phase power to 2HP motor.
+4. Check overloads and breaker.
+5. Check speed reducer and drive assembly.
+6. Check drive arm rod ends and linkage.
+7. Listen for unusual noise or binding.
+Safety:
+- Electrical repairs must be done by licensed electrician.
+- Lockout/tagout before servicing.
+
+Problem: Mitter moving but not washing well
+Checks:
+1. Verify soap/solution delivery to spray bar.
+2. Check chemical lines and fittings for leaks.
+3. Check spray nozzles for wear or clogging.
+4. Inspect cloth for cuts, grease, oil, or missing panels.
+5. Confirm proper brush lubrication chemistry is being used.
+
+Problem: Unusual noise
+Checks:
+1. Stop and lockout equipment.
+2. Check gear reducer oil level.
+3. Inspect rod ends on drive arms.
+4. Inspect plastic bearings for wear.
+5. Check loose hardware/fittings.
+6. Check for binding in basket/drive assembly.
+
+Problem: Oil leak near reducer
+Checks:
+1. Lockout equipment.
+2. Inspect gear reducer for leaks.
+3. Check oil level.
+4. Repair/replace as needed.
+5. Do not overfill reducer.
+
+Problem: Cloth damaged or dirty
+Checks:
+1. Inspect cloth daily for cuts, grease, or oil.
+2. Remove damaged/contaminated cloth panel.
+3. Repair or replace cloth panel as needed.
+
+Safety Warnings:
+- Lockout/tagout before maintenance.
+- Do not enter wash tunnel while equipment is operating.
+- Do not wear loose clothing or jewelry near moving equipment.
+- Remove ladders, hoses, tools, and parts from tunnel before operation.
+- Do not work on pressurized liquid or pneumatic parts while equipment is operating.
+- Do not operate equipment with safety covers removed.
+- Do not bypass safety devices.
+- Electrical work must be done by licensed electrician.
+- Plumbing work must be done by licensed plumber.
+
+Support:
+- Sonny’s Technical Support: 1-800-327-8723 ext. 234
+- Customer Service / Parts: 1-800-327-8723 option 3
+- Website: SonnysDirect.com
+
+Search Keywords:
+front to back mitter, mitter, Sonny’s SFM901, SFM901, mitter cloth, mitter basket, drive arm, rod end, gear reducer, speed reducer, 2HP motor, 60:1 reducer, mitter not moving, mitter not washing, spray bar, soap solution, chemical delivery, mitter noise, mitter oil leak, mitter maintenance
+
+---
+
+Equipment: Over-Under Conveyor
+Brand: Sonny’s
+Manual: Over-Under Conveyor Owner’s Manual
+Manual Version: Manual-O, Over-Under Conveyor 16v1 – Rev 2021-A
+
+Quick Description:
+Sonny’s Over-Under Conveyor moves vehicles through the wash using conveyor chain, rollers, take-up system, roller-up function, and either hydraulic or electric drive. It can be configured for rear wheel push or front wheel pull applications.
+
+Main Specs:
+- Accepts 13 inch wide tires.
+- Rubber pads reduce operation noise.
+- Direct drive speed reducer driven by high torque hydraulic motor.
+- Available in electric or hydraulic drive.
+- Removable cover on take-up section for maintenance.
+- Air take-up standard; spring-loaded take-up optional.
+- SC78 conveyor chain standard.
+- Optional chains: Log, X458, or D88K.
+- Standard roller spacing: 3 ft 6 in.
+- 4-wheel mid-profile UHMW roller assemblies standard.
+- 1/2 inch thick steel top deck.
+- Soft-drop exit door.
+- UHMW protective guide rail covering.
+- Air cylinder controlled roller-up fork.
+- Optional pulse switch kit.
+- Optional safety horn warning kit.
+- Tracking bars and kick-off plate must be used with all front wheel pull installations.
+
+Utilities:
+Electric:
+- Three #16 AWG wires from tunnel controller to pulse sensor switch or optional remote pulse switch.
+- Two #16 AWG wires from 120VAC or 24VAC power source through remote roller-up switch to air solenoid valve or tunnel controller.
+- Two #16 AWG wires from tunnel controller to optional anti-jam switch.
+- If applicable, provide 208VAC / 230VAC / 460VAC, 3-phase, 60Hz power to electric motor on hydraulic power pack or VFD panel through properly sized 3-pole breaker and motor starter with 3 thermal overloads.
+Pneumatic:
+- 3/8 inch compressed air line, 100 PSI at 0.5 CFM, for roller-up cylinder.
+- 3/8 inch compressed air line, 100 PSI at 0.5 CFM, for optional air take-up.
+
+Operation:
+- Conveyor start/stop is controlled by push-button switches operating motor starter coil for hydraulic power pack.
+- Roller Up function moves vehicles through wash and is controlled by push-button switch on tunnel controller station.
+- Anti-Jam prevents rollers from being brought up where they would jam during transition to top deck.
+- Conveyor speed is adjusted by flow control valve on hydraulic power pack.
+- Optional pulse switch sends pulses to equipment programmer based on conveyor movement.
+- Optional safety horn sounds before conveyor starts. Minimum suggested horn time is 5 seconds.
+- Optional anti-collision kit stops conveyor if vehicle is still on exit pad and another vehicle approaches last piece of equipment.
+
+Conveyor Speed:
+- Hydraulic conveyor speed is adjusted at flow control valve on hydraulic power pack.
+- Speed range can be 50 to 200 cars per hour depending on tunnel equipment and desired wash quality.
+- To check speed: measure how many inches a roller travels in 15 seconds.
+- Inches of roller travel in 15 seconds equals cars per hour.
+Example:
+- 100 inches in 15 seconds = 100 cars per hour.
+
+Hydraulic Speed / Torque:
+- Increase speed by moving flow control handle closer to 10.
+- Decrease speed by moving flow control handle closer to 1.
+- Torque setting should be between 600 and 900 PSI.
+- Conveyor stall torque pressure gauge should indicate 1200 PSI when power pack is running with conveyor stalled.
+
+Electric Speed / Torque:
+- Speed is adjusted on VFD.
+- Increase speed by raising Hertz.
+- Decrease speed by lowering Hertz.
+- Motor starter overloads should be set at the lowest level that allows operation.
+- Set amps according to motor nameplate.
+
+Roller-Up Function:
+Spring setup:
+- Up position: 70–80 PSI.
+- Down position: 30–60 PSI.
+Air setup:
+- Should be 40–50 PSI at switch.
+- Roller-up forks should move smoothly and completely up/down.
+
+Chain Tension:
+Air take-up:
+- 40–50 PSI at switch for all chains except Log chain.
+- Log chain: 60–80 PSI.
+- Low pressure safety switch: 30 PSI for all chains except Log.
+- Log chain low pressure safety switch: 60 PSI.
+
+Daily Maintenance:
+1. Check leaks around hoses and fittings.
+2. Repair hydraulic leaks immediately.
+3. Check hydraulic leaks around drive motor and connectors.
+4. Check air leaks around roller-up cylinder and shocks.
+5. Check chain tension bolt.
+6. If less than 2 inches of threads are showing, plan to remove a chain link during weekly maintenance.
+7. Watch conveyor, roller-up function, and power pack operation.
+8. Listen for unusual noises.
+9. Wash down conveyor at end of day.
+10. Open manual drain valves in roller-up air cylinder air lines at end of business.
+
+Weekly Maintenance:
+1. Check roller-up operation, fork alignment, and free travel.
+2. Check oil leaks around drive motor and speed reducer.
+3. Check sprocket alignment and sprocket wear.
+4. Wipe dirt/grime off take-up slides.
+5. Grease take-up shaft bearings with 1–2 pumps per bearing.
+6. Check chain tension bolt.
+7. If less than 1 inch of thread is showing, remove a chain link.
+8. Spray lubricant on air cylinder rod end and clevis.
+
+Monthly Maintenance:
+1. Inspect each roller, chain link, and cotter pin for wear/damage.
+2. Replace worn/damaged parts.
+3. Inspect hardware and fittings for tightness.
+4. Grease the 2 slide tubes until grease comes out weep hole.
+5. Clean entire assembly.
+
+Annual Maintenance:
+1. Drain, flush, and refill hydraulic power pack.
+2. Use new non-foaming, non-detergent hydraulic fluid ISO #46.
+3. If chain is wearing unevenly, flip chain upside down to extend life.
+
+Problem: Conveyor will not move
+Checks:
+1. Verify start button/control circuit is calling for conveyor.
+2. Verify hydraulic power pack is running.
+3. Check motor starter/overloads/breaker.
+4. Check hydraulic flow control setting.
+5. Check conveyor stall/torque setting.
+6. Check chain jam or roller jam.
+7. Check anti-jam switch status.
+8. Check anti-collision control if installed.
+9. Lockout before entering pit or servicing.
+
+Problem: Conveyor speed wrong
+Checks:
+1. Measure roller travel in 15 seconds.
+2. Inches traveled in 15 seconds equals cars per hour.
+3. For hydraulic drive, adjust flow control valve.
+4. Move toward 10 to speed up.
+5. Move toward 1 to slow down.
+6. For electric drive, adjust VFD Hertz.
+
+Problem: Chain jams
+Checks:
+1. Check chain tension bolt.
+2. If less than 2 inches showing during daily check, plan link removal.
+3. If less than 1 inch showing during weekly check, remove chain link.
+4. Clean pit and remove buildup.
+5. Check sprocket alignment and wear.
+6. Check rollers, chain links, and cotter pins.
+7. Check take-up operation.
+8. Check air take-up pressure.
+9. Check anti-jam function.
+
+Problem: Roller-up not working or weak
+Checks:
+1. Check air supply.
+2. Verify 3/8 inch air line has 100 PSI at 0.5 CFM supply.
+3. For spring setup, check up pressure 70–80 PSI and down pressure 30–60 PSI.
+4. For air setup, check 40–50 PSI at switch.
+5. Check roller-up cylinder and shocks for air leaks.
+6. Check fork alignment and freedom of travel.
+7. Drain water from air lines.
+8. If water is found in air cylinders, cylinders may need replacement and air dryer should be added.
+
+Problem: Conveyor noisy
+Checks:
+1. Inspect chain tension.
+2. Check rollers and chain links.
+3. Check sprocket alignment/wear.
+4. Check hydraulic drive motor and speed reducer.
+5. Check take-up slides.
+6. Check for debris or pit buildup.
+7. Grease take-up shaft bearings and slide tubes as scheduled.
+
+Problem: Hydraulic leak
+Checks:
+1. Stop and lockout if needed.
+2. Check drive motor and connectors.
+3. Check hydraulic hoses/fittings.
+4. Repair leaks immediately.
+5. Check power pack fluid level and condition.
+6. Use ISO #46 non-foaming non-detergent hydraulic fluid during annual service.
+
+Safety:
+- Do not enter wash tunnel while equipment is operating.
+- Lockout before maintenance or entering conveyor pit.
+- Loose clothing, jewelry, ladders, hoses, tools, or body parts must stay away from moving equipment.
+- Clear tunnel before restart.
+- Electrical repairs must be performed by licensed electrician only.
+- Do not adjust pressurized pneumatic or hydraulic parts while operating.
+- Safety covers must be installed before operation.
+
+Search Keywords:
+over under conveyor, conveyor, chain tension, roller-up, anti-jam, anti-collision, pulse switch, conveyor speed, cars per hour, hydraulic power pack, flow control, VFD, Hertz, hydraulic motor, speed reducer, SC78 chain, Log chain, X458 chain, D88K chain, take-up section, drive section, sprocket alignment, conveyor noisy, chain jam, conveyor not moving, roller not coming up
+
+---
+
+Equipment: H25 / D35 High Pressure Pump Station
+Brand: Sonny’s
+Manual: HP Pump Stations High Pressure Owner’s Manual, H25 & D35 Series, Rev 2021-A
+
+Quick Description:
+High pressure pump station using a Wanner pump with unloader/regulator, storage tank, inlet hose, bypass hose, inline strainer, automatic tank fill, overflow piping, and belt driven electric motor.
+
+Main Specs:
+- H25 uses 15HP electric motor.
+- D35 uses 20HP electric motor.
+- 3-phase motor: 230VAC / 460VAC, 60Hz.
+- Max pump ratings: 25 or 36 GPM at 1000 PSI.
+- Storage tank has automatic liquid fill.
+- Inline strainer protects pump and helps prevent nozzle clogging.
+- Ball shutoff valve is installed at pump inlet from tank.
+- Pump bypass returns to storage tank.
+- Do not exceed 1000 PSI operating pressure.
+- Spray nozzles fed by each pump should not exceed total 20 GPM at 1000 PSI.
+
+Utilities:
+Water:
+- 1 inch water line at about 60 PSI to float valve inlet on storage tank.
+Electrical:
+- 208VAC / 230VAC / 460VAC, 3-phase, 60Hz power to pump station motor through properly sized 3-pole breaker and motor starter with 3 thermal overloads.
+- 24VAC or 110VAC single-phase control power from start/stop system to motor starter coil.
+
+Before Startup:
+1. Check pump and motor mounting hardware for tightness.
+2. Confirm belt safety cover is installed and secured.
+3. Check pump oil dipstick level.
+4. Confirm liquid storage tank is filled.
+5. Confirm all shutoff valves are open.
+6. Confirm nozzle load does not exceed 20 GPM at 1000 PSI per pump.
+
+Initial Startup:
+1. Turn pump motor power on.
+2. Listen for erratic noise.
+3. Look for inconsistent discharge flow.
+4. Adjust regulator/unloader to desired operating and bypass pressures.
+5. Do not exceed 1000 PSI.
+
+Problem: Pump fails to prime
+Checks/Fix:
+1. Turn pump motor power OFF.
+2. Remove drain plug directly below pump liquid suction line.
+3. Restart pump motor and run until fluid comes from open drain plug port.
+4. Turn pump motor power OFF.
+5. Reinstall drain plug.
+6. Restart and verify steady flow.
+
+Problem: Low pressure or weak spray
+Checks:
+1. Confirm tank is full.
+2. Confirm all shutoff valves are open.
+3. Check inline strainer for clogging.
+4. Check nozzles for clogging or excessive total GPM.
+5. Verify unloader/regulator setting.
+6. Check bypass flow returning to tank.
+7. Check for suction leaks or loose inlet plumbing.
+8. Check belts, sheaves, and motor operation.
+9. Confirm pump is not exceeding nozzle load.
+
+Problem: Pump shakes or vibrates aggressively
+Checks:
+1. Lockout pump.
+2. Check for trapped air in Hydra-Cell oil diaphragm.
+3. Use H25 priming / diaphragm air removal procedure.
+4. Check suction line, inlet valve, and tank level.
+5. Check for clogged strainer.
+6. Verify discharge plumbing has flexible hose to reduce hammer/vibration.
+
+Problem: Pump noisy or inconsistent discharge
+Checks:
+1. Check pump oil level.
+2. Check tank level.
+3. Check inlet strainer.
+4. Check for air in suction line.
+5. Check unloader/regulator operation.
+6. Check nozzles and discharge restriction.
+7. Check belt tension and pulley alignment.
+
+Installation Notes:
+- Install pump station where it is not exposed to direct water spray or freezing.
+- Lag pump station down and shim as needed.
+- Use ball valve shutoff and minimum 18 inch flexible hose on tank inlet.
+- Use pipe/fittings rated for max operating pressure.
+- Minimize elbows to reduce friction loss.
+- Install 3 ft high pressure hose at pump discharge and equipment end to reduce vibration and hammer effect.
+
+Safety:
+- Lockout/tagout before service.
+- Do not adjust pressurized liquid or pneumatic parts while running.
+- Electrical work must be done by licensed electrician.
+- Keep belt guard installed.
+- Clean up fluid spills immediately.
+- Do not enter tunnel while equipment is operating.
+
+Search Keywords:
+H25, D35, HP pump station, high pressure pump, Wanner pump, Hydra Cell, unloader, regulator, bypass, strainer, pump fails to prime, low pressure, no pressure, pump vibration, pump shaking, pump noisy, 1000 PSI, 20 GPM, 25 GPM, 36 GPM, 15HP, 20HP
+
+---
+
+Equipment: H25 Hydra-Cell Pump
+Topic: Priming / Removing Air From Oil Diaphragm
+
+Problem:
+Hydra-Cell pump shakes or vibrates aggressively because air is trapped in the oil diaphragm. This can happen randomly, after installing a new pump, or between oil changes.
+
+Fix: Free air from oil diaphragm without disassembling pump
+1. Turn off pump and lock it out.
+2. Remove inlet and outlet piping from pump.
+3. Install the correct plug in the pump outlet.
+4. Install air chuck fitting in pump inlet.
+5. Connect airline to regulator and set regulator to 10 PSI.
+6. Attach regulator to air chuck to pressurize pump diaphragm.
+7. Open oil fill port.
+8. Rotate pump pulley until zero air bubbles come from oil fill port.
+9. Reassemble inlet/outlet piping.
+10. Verify pump runs smoothly.
+
+Safety:
+- Lockout pump before removing piping.
+- Use only low regulated air pressure: 10 PSI.
+- Do not run pump dry.
+- Do not work on pressurized piping while pump is operating.
+
+Search Keywords:
+Hydra Cell, Hydra-Cell, H25 priming, pump shaking, pump vibrating, air trapped, oil diaphragm, oil fill port, air bubbles, 10 PSI, air chuck, rotate pulley
+
+---
+
+Equipment: Spinner Wheel Blasters
+Brand: Sonny’s
+Manual: Spinner Wheel Blasters SP Series Owner’s Manual, Rev 2021-A
+
+Quick Description:
+Wheel blaster system designed to clean wheels with spinner spray heads. Available in pivoting or stationary versions. Uses high pressure pump station and optional pneumatic pivoting.
+
+Main Specs:
+- Free-standing pivot design or free-standing stationary design.
+- Each spinner uses 4 zero-degree plus nozzles and 1 fifteen-degree nozzle.
+- Turbo option uses 4 zero-degree nozzles and 1 turbo nozzle in center.
+- Stainless steel spray bars.
+- UHMW bushings.
+- Arch mounted or free-standing post mounted.
+- Optional independent cylinders pivot for greater coverage.
+- Ceramic swivels.
+- Aluminum/plastic non-corrosive construction.
+- Requires high pressure pump station.
+- Pivoting spinner uses air kit.
+- Spec page shows max 20 GPM at 600 PSI and pneumatic 2 CFM.
+
+Problem: Wheel blaster has no spray
+Checks:
+1. Confirm high pressure pump station is running.
+2. Confirm water supply/tank level.
+3. Check shutoff valves.
+4. Check inline strainer/filter.
+5. Check nozzles for clogging.
+6. Check high pressure line to spinner.
+7. Check unloader/regulator pressure.
+8. Verify controller is calling for wheel blaster.
+
+Problem: Weak spray or poor wheel cleaning
+Checks:
+1. Check nozzle wear/clogging.
+2. Confirm correct nozzle setup: 4 zero-degree plus 1 fifteen-degree or turbo center nozzle.
+3. Check pump pressure and flow.
+4. Check for leaks in high pressure plumbing.
+5. Check spinner face alignment to wheel.
+6. Check if spinner is pivoting to cover front wheel, rocker, and rear wheel.
+7. Check ceramic swivel for wear or restriction.
+
+Problem: Spinner not rotating
+Checks:
+1. Check nozzle clogging or incorrect nozzles.
+2. Check swivel condition.
+3. Check pressure/flow from pump.
+4. Check for debris in spinner head.
+5. Check bearings/bushings for binding.
+6. Lockout before disassembly.
+
+Problem: Pivoting spinner not moving
+Checks:
+1. Check air supply.
+2. Check air solenoid signal from controller.
+3. Check pivot cylinder and air lines.
+4. Check mechanical pivot for binding.
+5. Check UHMW bushings.
+6. Check that independent cylinders, if installed, are operating.
+
+Problem: Water leaking at spinner
+Checks:
+1. Check fittings and spray bar connections.
+2. Check ceramic swivel.
+3. Check nozzle threads.
+4. Check high pressure hose/fittings.
+5. Replace worn seals/swivel if needed.
+
+Safety:
+- Lockout/tagout before service.
+- Do not adjust pressurized liquid or pneumatic parts while operating.
+- Electrical repairs must be done by licensed electrician.
+- Keep people clear of tunnel before restart.
+- High pressure spray can injure skin; depressurize before working on nozzles.
+
+Search Keywords:
+spinner wheel blaster, wheel blaster, SP series, pivoting spinner, stationary spinner, turbo spinner, zero degree nozzle, fifteen degree nozzle, ceramic swivel, no spray, weak spray, spinner not rotating, pivot not working, wheel cleaning, rocker panel cleaning
+
+---
+
+Equipment: Top Mount Side Washer / Van High
+Brand: Sonny’s
+Manual: Top Mount Side Washer Owner’s Manual, Part #10013918-C
+
+Quick Description:
+Top mount side washer spins against vehicle travel, opposite direction of wrap washers. Used for rocker panels, contoured sides, mirror backs, and high side cleaning depending on brush size.
+
+Main Specs:
+- Brush sizes: 18, 21, 28, 35, 50, or 63 inch.
+- Vehicle clearance: 90 inches.
+- Footprint length: 74 inches.
+- Footprint width: 144 inches.
+- Height: 142 inches.
+- Water inlet: 1/2 inch.
+- Hydraulic option: small brush uses 3 GPM at 800 PSI per motor.
+- Hydraulic option: large brush uses 6 GPM at 800 PSI per motor.
+- Electric option: 3-phase 208–460V per motor.
+- Optional retract kit uses compressed air.
+- Top motor design helps PM access.
+- Adjustable shock absorber controls pressure/material penetration.
+- Vehicle contour brush tracking.
+
+Utilities:
+Water:
+- 1/2 inch city water line at about 60 PSI to solenoid valve on chemical distribution system.
+Hydraulic:
+- Small brush: 3 GPM at 800 PSI.
+- Large brush: 6 GPM at 800 PSI.
+Electrical:
+- Single phase control power from customer controller to liquid solenoid and motor starter coil if required.
+- 208/230/460VAC 3-phase to hydraulic power pack or VFD panel where applicable.
+Optional Retract:
+- Single phase power from remote push-button/tunnel programmer to air solenoid.
+- 1/2 inch compressed air line to air distribution manifold.
+
+Important Install / Rotation:
+- Place frame 46 inches from inside passenger guide rail.
+- Square frame to conveyor.
+- Plumb legs and level hanger arms.
+- Check shock does not bottom out fully extended.
+- BLACK high-pressure hose = hydraulic pressure.
+- ORANGE or RED high-pressure hose = hydraulic return.
+- Brush rotation is against vehicle travel.
+- Viewed from top: driver side turns clockwise.
+- Viewed from top: passenger side turns counterclockwise.
+
+Problem: Brush not spinning
+Checks:
+1. Verify controller is calling for side washer.
+2. Check hydraulic power pack or electric drive power.
+3. Check hydraulic pressure/flow to motor.
+4. For small brush verify 3 GPM at 800 PSI.
+5. For large brush verify 6 GPM at 800 PSI.
+6. Confirm BLACK hose is pressure and ORANGE/RED hose is return.
+7. Check motor coupler, bearings, and hub.
+8. Check brush for mechanical binding.
+9. Lockout before service.
+
+Problem: Brush spins wrong direction
+Checks:
+1. Confirm rotation is against vehicle travel.
+2. Viewed from top, driver side should turn clockwise.
+3. Viewed from top, passenger side should turn counterclockwise.
+4. For hydraulic, check pressure/return hoses are not reversed.
+5. For electric, check motor phase rotation by qualified electrician.
+
+Problem: Brush contact too hard or too light
+Checks:
+1. Check frame position and distance from guide rail.
+2. Check shock absorber adjustment.
+3. Check shock is not bottoming out fully extended.
+4. Check brush arm movement and tracking.
+5. Check brush material wear.
+6. Verify correct brush size and install dimensions.
+
+Problem: Retract not working
+Checks:
+1. Check compressed air supply to manifold.
+2. Check air solenoid signal from controller.
+3. Check retract cylinder air lines.
+4. Check cylinder for leaks.
+5. Check brush arm for binding.
+6. Check remote push-button/tunnel programmer signal if installed.
+
+Problem: Poor side cleaning
+Checks:
+1. Verify brush rotation direction.
+2. Check chemical/water delivery to spray bars.
+3. Check nozzles for clogging.
+4. Check brush material condition.
+5. Check shock/contact pressure.
+6. Check hydraulic speed/flow.
+7. Check vehicle tracking and guide rail spacing.
+
+Safety:
+- Lockout/tagout before service.
+- Do not enter tunnel while equipment operates.
+- Do not work on pressurized hydraulic, pneumatic, or liquid parts while running.
+- Electrical work must be done by licensed electrician.
+- Use fiberglass ladder for overhead work.
+- Keep covers installed.
+
+Search Keywords:
+van high, top mount side washer, side washer, side brush, brush not spinning, brush wrong direction, retract not working, shock adjustment, hydraulic motor, 3 GPM, 6 GPM, 800 PSI, black hose pressure, orange hose return, driver clockwise, passenger counterclockwise
+
+---
+
+Equipment: Tire Brushes
+Brand: Sonny’s
+Manual: Tire Brushes Owner’s Manual, Poodle Brush Plus, Ninja Brush, Bison Brush, TBG Series, Rev 2021-A
+
+Quick Description:
+Tire brush system for cleaning tires and wheels using 6, 7, or 8 inch diameter brushes, 96 inches long. Available with Poodle Brush Plus, Ninja Brush, or Bison Brush styles.
+
+Main Specs:
+- Accepts 6, 7, or 8 inch diameter tire brushes.
+- Brush length: 96 inches.
+- Aluminum or stainless steel frame/hangers.
+- UHMW plastic approach guides.
+- Height adjustable.
+- Mechanically adjustable shock absorber control standard.
+- Retract air cylinder control standard.
+- 3 or 4 bolt spindle type brush mounting.
+- Aluminum motor coupler.
+- Greaseable bearings throughout.
+- Passenger side tunnel unit requires 14 ft 2 in / 170 inches tunnel length.
+- Driver side tunnel unit requires 12 ft / 144 inches tunnel length.
+- InBay units require 17 ft / 204 inches length.
+- Hydraulic motors used on all tire brushes.
+- Optional retract kit air supply: 3/8 inch line, 100 PSI at 1.0 CFM.
+
+Problem: Tire brush not spinning
+Checks:
+1. Verify controller is calling for tire brush.
+2. Check hydraulic power pack / hydraulic supply.
+3. Check hydraulic motor operation.
+4. Check motor coupler.
+5. Check spindle and brush mounting bolts.
+6. Check bearings for seizure.
+7. Check brush for binding against guide/vehicle/ground.
+8. Lockout before service.
+
+Problem: Tire brush not retracting
+Checks:
+1. Check 3/8 inch compressed air supply.
+2. Verify 100 PSI at 1.0 CFM available.
+3. Check air regulator and air distribution manifold.
+4. Check air solenoid signal from controller.
+5. Check retract cylinder and air lines for leaks.
+6. Check arm movement and mechanical binding.
+
+Problem: Poor tire cleaning
+Checks:
+1. Check brush wear.
+2. Confirm correct brush type for site: Poodle, Ninja, or Bison.
+3. Check brush height adjustment.
+4. Check shock absorber/contact pressure.
+5. Check hydraulic speed/rotation.
+6. Check tire chemical application.
+7. Check UHMW approach guides and vehicle tracking.
+
+Problem: Brush noisy or vibrating
+Checks:
+1. Check brush mounting bolts.
+2. Check spindle.
+3. Check motor coupler.
+4. Check greaseable bearings.
+5. Check frame/hanger hardware.
+6. Check brush wear or missing sections.
+7. Check if brush is contacting concrete/guide incorrectly.
+
+Problem: Brush arm pressure too hard or too soft
+Checks:
+1. Adjust mechanical shock absorber control.
+2. Check retract cylinder operation.
+3. Check arm pivot points.
+4. Check brush height.
+5. Check guide rail and vehicle tracking.
+
+Maintenance:
+- Grease bearings as scheduled.
+- Inspect brush sections for wear.
+- Inspect spindle and mounting hardware.
+- Check retract cylinder and air lines.
+- Check shock absorber and arm movement.
+- Inspect UHMW guides.
+
+Safety:
+- Lockout/tagout before service.
+- Do not enter tunnel while operating.
+- Do not adjust pressurized air or hydraulic parts while running.
+- Electrical repairs by licensed electrician only.
+- Keep loose clothing/tools away from rotating brush.
+
+Search Keywords:
+tire brush, Poodle Brush Plus, Ninja Brush, Bison Brush, TBG, brush not spinning, brush not retracting, poor tire cleaning, 96 inch brush, 6 inch brush, 7 inch brush, 8 inch brush, retract cylinder, 100 PSI, 1 CFM, spindle, coupler, bearings
+
+---
+
+Equipment: Tunnel Control Station 2 / TunnelWatch TCS2
+Brand: DRB Systems / TunnelWatch
+Manual: Tunnel Control Station 2 Installation Instructions – Rev 2B
+
+Quick Description:
+Tunnel Control Station 2 is the TunnelWatch tunnel control box used for AC power, stop/start wiring, conveyor enable circuit, relay outputs for tunnel devices, input devices, communications, and entrance terminal wiring.
+
+Main Install / Wiring Areas:
+1. 120VAC power.
+2. Stop and Start buttons plus interlocked relay source power to conveyor control circuit.
+3. Relay source power and relay control outputs for tunnel devices.
+4. Conveyor Control Circuit CONVEYOR output to conveyor motor contactor.
+5. Input devices such as Pulse, Enter, Tire, etc.
+6. Ethernet communication cable from non-CDE network switch.
+7. Ground conduit entry ways to power supply assembly ground connections.
+
+Power Requirements:
+- Clean “computer-grade” 120VAC, 15A power.
+- Dedicated 15A circuit breaker recommended.
+- Dedicated 120VAC Hot, Neutral, and Ground conductors recommended.
+- Metal conduit is not a suitable ground conductor by itself.
+- Grounds for TunnelWatch/SiteWatch equipment should be bonded per NEC.
+
+Environment / Mounting:
+- Ambient temperature must be 0°C to 50°C.
+- TCS2 dimensions with door installed: 32.95 in H x 22.14 in W x 8.25 in D.
+- Leave at least 6 inches around exhaust openings.
+- Do not install heat-producing equipment on left side near intake fan.
+- Door should open beyond 90 degrees.
+- LEDs for Relay, Input, and Conveyor Control cards should be visible with door closed.
+
+Conduit / Communication Rules:
+- Do NOT drill holes in top of TCS2 box.
+- Use provided side or bottom conduit openings.
+- Metallic conduit should be used for communication wire runs.
+- Cat 5/Cat 6 and RS-422 should be in metallic conduit.
+- Do not run keypad, VPD, or legacy TCS communication wiring in same conduit/wireway as power wires or relay control wiring.
+- Keep communication wiring separated to prevent cross-talk/interference.
+- Protect boards from metal chips/filings and condensation.
+
+Relay Output Limits:
+- Relay output load capacity: 0–120VAC or 0–28VDC, 2.5A continuous.
+- Maximum current: 7A per relay, 25A total per relay card.
+- 10A fuse is protection only; 10A loads are not supported.
+- All source voltages on a relay card must be on the same phase.
+- Different phases on the same relay card can cause arc-over and damage.
+- Each relay output card controls 6 relays A through F.
+- Relays A-D are normally open contacts.
+- Relays E-F have normally open and normally closed contacts.
+- Do not directly flash signs/lights with TCS2 relay if avoidable; use external flasher module for long relay life.
+
+Conveyor Enable Circuit:
+- TCS2 conveyor control logic is self-contained and uses TCS2 24VAC power source.
+- CONVEYOR terminals are normally open dry contacts on the TCS2 motherboard.
+- CONVEYOR dry contact output max: 120VAC or 28VDC, 8A.
+- Start and Stop switches should only connect to START and STOP on TCS2 motherboard.
+- Unused Stop terminals must be jumpered.
+- Stop buttons are for emergencies.
+- Start buttons re-enable Conveyor Enable Circuit after Stop is pressed.
+- No other relay is needed to control conveyor.
+
+Problem: TCS2 communication issues
+Checks:
+1. Verify clean dedicated 120VAC power and proper ground.
+2. Verify Ethernet from non-CDE switch connected to X3 on site router path.
+3. Verify Cat5/Cat6 or RS-422 wiring is in metallic conduit.
+4. Confirm communication wires are not sharing conduit/wireway with power or relay wiring.
+5. Check grounding/bonding between services if site has multiple buildings.
+6. Consider optical isolation/fiber if multiple services create communication issues.
+
+Problem: Relay/device not turning on
+Checks:
+1. Verify relay source voltage is present.
+2. Verify device control voltage is wired to correct relay output.
+3. Check relay output load is under 2.5A continuous.
+4. Confirm all relay card source voltages are on same phase.
+5. Check relay card LED/indicator.
+6. Check TunnelWatch programming for the device.
+7. For flashing lights/signs, verify external flasher module is used.
+
+Problem: Conveyor will not start from TCS2
+Checks:
+1. Verify Stop buttons are reset.
+2. Verify unused Stop terminals are jumpered.
+3. Verify optional keylock/security switch is ON if installed.
+4. Verify hydraulic low switch or other stop interlocks are closed if installed.
+5. Verify Start button re-enables Conveyor Enable Circuit.
+6. Verify CONVEYOR dry contact output wiring to conveyor starter/motor driver.
+7. Verify conveyor override switch uses same voltage source/phase as conveyor relay.
+8. Check conveyor control card LEDs.
+
+Problem: Inputs not reading
+Checks:
+1. Verify input device wiring to correct TCS2 input.
+2. Check pulse, enter, tire switch device operation.
+3. Verify wiring source and common.
+4. Check input card LEDs.
+5. Label all inputs and wireways after testing.
+
+Safety:
+- Wiring must be done by qualified/licensed electrician and follow local codes.
+- Turn off TCS2 main power switch and breaker before wiring.
+- Do not exceed relay output ratings.
+- Do not mix phases on a relay card.
+- Do not drill top of enclosure.
+- Keep electronics protected from metal filings and moisture.
+
+Search Keywords:
+TCS2, Tunnel Control Station 2, TunnelWatch, DRB, relay card, input card, conveyor enable, conveyor relay, start stop, stop button, relay output, keypad, VPD, Ethernet, Cat6, RS-422, communication issue, relay not working, input not working, conveyor not starting
+
+---
+
+Equipment: Velocity Water Softener
+Brand: Velocity Water Works
+Manual: Water Softener Installation & Start-up
+
+Quick Description:
+Velocity Water Works softener system uses softener tanks, brine tank, resin, gravel, control valves, optional MAV motorized alternating valve, meters, and optional pre-plumbed bypass manifold.
+
+Safety / Install Warnings:
+- Plug-in power adapter is for dry locations only.
+- Connect to uninterrupted outlet within 15 ft of softener.
+- Only trained/authorized personnel should install, inspect, maintain, or service.
+- Do not locate softener or drain/overflow lines where temperature can go below 40°F / 4°C.
+- Plumbing must follow local code.
+- Never insert drain line directly into drain/sewer/trap; always use air gap to prevent back-siphonage.
+- Control valve and fittings are not designed to support system/plumbing weight.
+- Do not use Vaseline, oils, hydrocarbon lubricants, or spray silicone.
+
+Install Notes:
+1. Inspect tanks for damage.
+2. Inspect distributor tube and laterals with bright light before filling.
+3. Do not fill tank if damage is detected.
+4. Thread valves on tanks before filling to determine tank front.
+5. Valve A goes on left tank; Valve B goes on right tank.
+6. Level tanks and shim as needed.
+7. Fill tank 1/3 with water before adding media to protect laterals.
+8. Cap distributor tube before filling.
+9. Distributor tube must be held down/in place while gravel is poured.
+10. Pour gravel first, then resin.
+11. Fill tanks with water to 2–4 inches below threads to prevent airhead that can blow resin into valve.
+12. Install drain line flow controls before starting.
+13. Do not start softeners without drain line flow controls installed.
+14. Brine tank should be within 15 ft of softeners for proper brine system performance.
+
+Drain / Flow / Salt Notes:
+- Backwash flow and drain size depend on model.
+- Salt used per tank regeneration varies by model.
+- Example models:
+  - VSS2-100-030: 1 cu ft resin, 2.2 GPM backwash, 10 lb salt.
+  - VSS2-100-060: 2 cu ft resin, 3.2 GPM backwash, 20 lb salt.
+  - VS2-125-090: 3 cu ft resin, 5.3 GPM backwash, 30 lb salt.
+  - VS2-150-180: 6 cu ft resin, 13 GPM backwash, 60 lb salt.
+  - VS2-200-450: 15 cu ft resin, 25 GPM backwash, 150 lb salt.
+
+Bypass Valve Positions:
+- Normal Operation.
+- Bypass.
+- Diagnostic Mode.
+- Shut Off.
+
+Problem: Hard water / no soft water
+Checks:
+1. Verify softener is in Normal Operation, not Bypass.
+2. Check salt level in brine tank.
+3. Check brine line connection.
+4. Check drain line flow control is installed.
+5. Check valve/controller power.
+6. Check if valve is in Softening or Standby.
+7. Check programming capacity and valve type.
+8. Check MAV/alternator operation on twin systems.
+9. Test sample ports if available.
+
+Problem: Softener will not regenerate
+Checks:
+1. Verify controller has power.
+2. Check programming.
+3. Check brine tank has salt and brine.
+4. Check brine line and pickup tube.
+5. Check drain line for restriction.
+6. Check drain line flow control.
+7. Check MAV/alternator valve on twin systems.
+8. Check for error codes.
+
+Problem: Resin in valve or plumbing
+Likely Causes:
+- Distributor tube was not capped during filling.
+- Tank had airhead and resin blew up into valve.
+Checks:
+1. Stop system.
+2. Inspect valve and plumbing.
+3. Verify distributor tube/laterals condition.
+4. Service valve and clean resin from affected parts.
+
+Problem: Brine tank not drawing/refilling correctly
+Checks:
+1. Check brine line connection to valve and pickup tube.
+2. Check brine well cap/tube.
+3. Check for kinks or leaks in poly tubing.
+4. Check tee between tanks on twin/triple systems.
+5. Check controller cycle.
+6. Check drain flow/restriction.
+
+Problem: Leaking or plumbing stress
+Checks:
+1. Verify valve/fittings are not supporting pipe weight.
+2. Support plumbing separately.
+3. Check bypass manifold alignment.
+4. Check tanks are level and shimmed.
+5. Check O-rings/fittings.
+
+Search Keywords:
+Velocity Water Works, water softener, softener, brine tank, resin, gravel, MAV, motorized alternating valve, bypass valve, drain line flow control, hard water, no soft water, brine draw, regeneration, valve A, valve B, salt, distributor tube, laterals, air gap
+
+---
+
+Equipment: Velocity Water Softener
+Topic: Programming Step-by-Step
+
+Unlock / Lock Controller:
+1. Press in order: minus, Next, plus, Set Clock.
+2. Doing this again also locks it.
+
+Primary Programming:
+1. Press and hold Next + minus until “set softening and type” is flashing.
+2. Press Next until “grains of capacity.”
+3. Set grains of capacity to 210.0.
+4. Press Next until back to main screen.
+
+Secondary Programming:
+1. Hold Next + minus again to enter programming screen.
+2. Once there, hold buttons again to enter secondary programming screen.
+3. “Valve type” should appear.
+4. Make sure valve type is set to 2.0 for pipe size.
+5. Press Next until “Alternator System.”
+6. Make sure Type A matches MAV A.
+7. MAV letters can be seen on each side of the MAV.
+8. Press Next until back to main screen.
+
+Problem: Cannot get into programming
+Checks:
+1. Unlock head using minus, Next, plus, Set Clock.
+2. Try holding Next + minus.
+3. If already locked, repeat unlock sequence.
+4. Do not change unrelated settings.
+
+Problem: Wrong capacity or alternator issue
+Checks:
+1. Verify grains capacity is 210.0.
+2. Verify valve type is 2.0.
+3. Verify Alternator System Type A matches MAV A.
+4. Check MAV labeling/wiring if twin system is not alternating correctly.
+
+Search Keywords:
+softener programming, unlock head, minus Next plus Set Clock, grains capacity 210.0, valve type 2.0, alternator system, Type A, MAV A, Velocity softener programming
+
+---
+
+Equipment: Velocity Water Softener
+Topic: Temporary Single Tank Operation
+
+Purpose:
+Operations-level procedure to keep water online temporarily when one Velocity VS2 softener valve fails. Intended for short-term operation only: 1–2 days. Avoids advanced settings and wiring changes.
+
+Step 1: Identify Failed Valve
+- Identify whether Valve A or Valve B failed.
+- Valve A: controller has four wires connected to motherboard.
+- Valve B: controller has two wires connected to motherboard.
+- Do not remove wiring.
+- Do not open controller housing.
+
+Step 2: Power Down Failed Softener
+1. Unplug power to the FAILED softener.
+2. Check display on GOOD softener.
+
+If GOOD softener display shows Standby:
+1. Press and hold NEXT + REGEN together for 3 seconds.
+2. Valve will reset and enter Softening mode.
+
+If GOOD softener display shows Softening:
+- No action required.
+- Proceed to Step 3.
+
+Do not enter menus.
+Do not change settings.
+
+Step 3: Isolate Failed Softener
+1. Turn OFF incoming water supply to FAILED softener.
+2. GOOD softener will continue supplying water while failed softener remains isolated.
+
+Important Temporary Operation Notice:
+- While one softener is offline, system will not regenerate normally.
+- GOOD softener may display an error once treatment capacity is reached.
+- This is acceptable short-term only, 1–2 days.
+
+Do Not:
+- Do not change controller settings.
+- Do not access advanced menus.
+- Do not move wiring between valves.
+
+After Repair:
+1. Plug repaired unit back in.
+2. Turn incoming water supply back ON.
+3. Maintenance should verify normal duplex operation.
+
+Search Keywords:
+temporary single tank operation, one softener failed, valve A, valve B, standby, softening, Next Regen, unplug failed softener, isolate failed softener, keep water online, short term operation, duplex softener
+
+---
+
+Equipment: Velocity Booster Pump / VFD
+Topic: VVF-5-460-100 460V 3 Phase Settings
+
+VFD / Drive:
+- VVF-5-460-100
+- 460V
+- 3 phase settings
+
+Important Parameters:
+- 1611 = 3, LONGVIEW
+- 9902 = 6, PID
+- 9905 = 460, Motor Nominal Voltage
+- 9906 = 6.1, Motor Nominal Current
+- 9907 = 60, Motor Nominal Frequency
+- 9908 = 3450, Motor Nominal Speed
+- 9909 = 5, Motor Nominal Power
+- 1002 = 8, KEYPAD
+- 1102 = 7, EXT2
+- 1201 = 0, Not Selected
+- 1301 = 20, Minimum AI1
+- 1601 = 0, Not Selected
+- 1801 = 0, FREQ Input MIN
+- 3101 = 3, Number of Trials
+- 3102 = 60, Trial Time seconds
+- 3103 = 5, Trial Delay Start Time seconds
+- 3105 = 1, Enable AR Over Voltage
+- 3106 = 1, Enable AR Under Voltage
+- 3401 = 130, PID1 FBK
+- 3405 = 25, PSI
+- 3415 = 103, Output Frequency
+- 4001 = 2, Gain. High gain may cause speed oscillation.
+- 4002 = 0.5, Integration Time seconds
+- 4006 = 25, PSI
+- 4008 = 0, 0% Value
+- 4009 = 100, 100% Value
+- 4010 = 19, INTERNAL
+- 4011 = 50, INTERNAL SETPOINT
+- 4016 = 1, AI1
+- 4017 = 1, AI1
+- 4022 = 7, INTERNAL
+- 4023 = 57.5, PID Sleep Level. Unit goes to sleep when pump runs less than setting.
+- 4024 = 30, PID Sleep Delay. Time pump must run below sleep level before controller goes to sleep.
+- 4025 = 5, Wake-Up DEV. When pressure drops below %, controller wakes up.
+- 4026 = 0.5, Wake-Up Delay seconds.
+
+Pump Wiring:
+- Line 1 = V2
+- Line 2 = U2
+- Line 3 = W2
+
+Pressure Transducer Wiring:
+- Black = 2
+- Red = 9
+- Shield = 1
+- Jump 3 and 10
+
+Pressure Tank:
+- 35 lbs
+
+Problem: Booster pressure hunting / speed oscillation
+Checks:
+1. Check parameter 4001 Gain.
+2. High gain may cause speed oscillation.
+3. Verify PSI setpoints and PID feedback.
+4. Verify pressure transducer wiring.
+5. Check pressure tank charge: 35 lbs.
+6. Check for leaks or demand swings.
+
+Problem: Booster not waking up
+Checks:
+1. Check PID sleep/wake parameters.
+2. 4023 Sleep Level = 57.5.
+3. 4024 Sleep Delay = 30 seconds.
+4. 4025 Wake-Up DEV = 5.
+5. 4026 Wake-Up Delay = 0.5 seconds.
+6. Verify pressure transducer input AI1.
+
+Problem: Pressure reading wrong
+Checks:
+1. Verify pressure transducer wiring: Black 2, Red 9, Shield 1.
+2. Verify jumper 3 and 10.
+3. Verify AI1 minimum and scaling parameters.
+4. Check transducer and wiring shield.
+
+Search Keywords:
+Velocity booster, booster pump, VFD, VVF-5-460-100, 460V, PID, pressure transducer, pressure tank 35 lbs, pump wiring, black 2 red 9 shield 1, jump 3 and 10, booster pressure hunting, speed oscillation, booster not waking up, PID sleep
